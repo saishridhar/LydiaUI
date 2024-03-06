@@ -1,0 +1,7 @@
+transformers
+openai
+anthropic
+streamlit
+tiktoken
+dotenv
+shelve
